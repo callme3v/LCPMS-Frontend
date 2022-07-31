@@ -14,6 +14,7 @@ import Gallery from "./component/gallery/Gallery.jsx";
 import Navbar from "./component/navbar/Navbar.jsx";
 import Panela from "./component/panel/Panela.jsx";
 import Panelb from "./component/panel/Panelb.jsx";
+import Panelc from "./component/panel/Panelc.jsx";
 
 export const App = () => {
         return (
@@ -33,6 +34,7 @@ export const App = () => {
                                         <div id="main-row" className="row">
                                             <div id="panel-1"
                                                  className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                                                <Panelc/>
                                             </div>
                                             <div id="panel-2"
                                                  className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">

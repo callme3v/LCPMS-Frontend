@@ -1,6 +1,9 @@
 import React from "react"
-import {faCoffee} from '@fortawesome/free-solid-svg-icons'
 import {faSearch} from '@fortawesome/free-solid-svg-icons'
+import {faCircleQuestion} from '@fortawesome/free-solid-svg-icons'
+import {faPrint} from '@fortawesome/free-solid-svg-icons'
+import {faScrewdriverWrench} from '@fortawesome/free-solid-svg-icons'
+import {faBook} from '@fortawesome/free-solid-svg-icons'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 
@@ -19,10 +22,10 @@ const Header = () => {
         <button className="same-bg-color  lg">ACCOUNT</button>
         <button className="same-bg-color  lg">DIARY</button>
         <button className="same-bg-color  lg">REPORTING</button>
-        <button className="diff-bg-color lg">PRINT</button>
-        <button className="btn-primary lg">TOOLS</button>
-        <button className="btn-primary lg">GUIDE</button>
-        <button className="btn-primary lg">HELP</button>
+        <button className="diff-bg-color lg"><FontAwesomeIcon icon={faPrint}/>PRINT</button>
+        <button className="same-bg-color lg"><FontAwesomeIcon icon={faScrewdriverWrench}/>TOOLS</button>
+        <button className="diff2-bg-color lg"><FontAwesomeIcon icon={faBook}/>GUIDE</button>
+        <button className="diff2-bg-color lg"><FontAwesomeIcon icon={faCircleQuestion}/>HELP</button>
 
 
     </div>

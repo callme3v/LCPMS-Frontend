@@ -16,7 +16,7 @@ const Navbar = () => {
         <>
             <nav>
                 <div className="position-sticky">
-                    <div className="list-group list-group-flush mx-3 mt-4">
+                    <div className="list-group list-group-flush mx-3 mt-4 nav-div">
                         <a className="list-group-item list-group-item-action py-2 ripple active" href="#/"
                            aria-current="true">
                             <FontAwesomeIcon className="me-3" icon={faGauge} size="1x"/><span className="hide-span">Dashboard</span></a>
