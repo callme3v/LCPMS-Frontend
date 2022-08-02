@@ -13,7 +13,7 @@ const Header = () => {
     return (
         <>
             <header>
-<div class="row">
+<div className="row">
     <div id="header-tab-row-1"  className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
         <button className="same-bg-color lg">PROPERTY</button>
         <button className="same-bg-color  lg">CONTACT</button>
@@ -30,7 +30,7 @@ const Header = () => {
 
     </div>
     <div id="header-tab-row-2" className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-        <div class="row">
+        <div className="row">
             <div id="header-tab-row-1-column-1" className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6 ">
 
             </div>

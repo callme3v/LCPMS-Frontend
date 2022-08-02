@@ -33,15 +33,15 @@ export const App = () => {
                                     <main>
                                         <div id="main-row" className="row">
                                             <div id="panel-1"
-                                                 className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                                                 className="col-xxl-4 col-xl-4 col-lg-4 col-md-11 col-sm-11 col-11 me-3 ">
                                                 <Panelc/>
                                             </div>
                                             <div id="panel-2"
-                                                 className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                                 className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-11 col-11">
                                                 <Panelb/>
                                             </div>
                                             <div id="panel-3"
-                                                 className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                                 className="col-xxl-3 col-xl-3 col-lg-3 col-md-5 col-sm-11 col-11 ms-3">
 
                                                 <Panela/>
                                             </div>

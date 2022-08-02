@@ -10,6 +10,81 @@ const Panelc = () => {
                         <span className="panelc-header-span2">DUE/OVERDUE</span>
                     </p>
                 </div>
+                <div className="panelc-cont">
+                    <div className="panelc-body1">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body2">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body3">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body4">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+                    <div className="panelc-body4">
+                        <p className="panelc-body-type1">Insurance renewal date</p>
+                        <button className="panelc-body-btn lg">
+                            1/23
+                        </button>
+                    </div>
+
+                </div>
 
             </div>
         </>
